@@ -1,0 +1,14 @@
+.capsule {
+	position: absolute;
+    width         : 100px;
+    height        : 50px;
+    border-radius : 25px;
+    background: #3330;
+    border: 0.5px solid #b141f5;
+    float: right;
+    top: 30px;
+    right: 10px;
+}
+.capsule:hover {
+    background: #b141f5;
+}
